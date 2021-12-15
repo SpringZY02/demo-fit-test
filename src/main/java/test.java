@@ -10,5 +10,6 @@ public class test {
         System.out.println("hellomaster");
         System.out.println("hello3");
         System.out.println("hello github");
+        System.out.println("hello github  away  update");
     }
 }
